@@ -49,3 +49,8 @@ The general structure will be:
 
   [./examples/everything-output.json]:./examples/everything-output.json
   [Arborist]:https://www.npmjs.com/package/@npmcli/arborist
+
+## command memo
+```bash
+node $(pwd)/examples/everything.js
+```
